@@ -18,8 +18,10 @@ body{
 }
 
 .container .box{
+    /* background-color: #161B33; */
+    background-image: url(https://images.unsplash.com/photo-1460186136353-977e9d6085a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
     padding: 25vh;
-    border: solid 2px #000;
+    border: solid 2px #161B33;
 }
 
 .container .input{
