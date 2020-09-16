@@ -13,4 +13,4 @@ A challenge from app idea
 
 [![Screenshot-from-2020-09-15-21-51-10.png](https://i.postimg.cc/dVZfwBGy/Screenshot-from-2020-09-15-21-51-10.png)](https://postimg.cc/xXY5PLxf)
 
-[![Screenshot-from-2020-09-15-21-53-40.png](https://i.postimg.cc/7YfsnVsW/Screenshot-from-2020-09-15-21-53-40.png)](https://postimg.cc/ppMJ2Dtf)
+[![Screenshot-from-2020-09-15-21-54-31.png](https://i.postimg.cc/bwnmKvj0/Screenshot-from-2020-09-15-21-54-31.png)](https://postimg.cc/21zdWry3)
