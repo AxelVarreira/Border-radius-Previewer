@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100%;
+}
+
+.container{
+    position: relative;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.container .box{
+    padding: 25vh;
+    border: solid 2px #000;
+}
+
+.container .input{
+    width: 30vh;
+    margin: 15px 0 ;
+}
+
+.container .btnAction{
+    cursor: pointer;
+    border: none;
+
+    padding: 10px;
+    border-radius: 5px;
+    
+    color: white;
+    background-color: #161B33;
+    outline: none;
+}
